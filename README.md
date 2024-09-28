@@ -1,4 +1,4 @@
-# Non-Fiction Summaries
+# Django ECommerece website
 
 **Ecommerce & Blog Web Application with User Authentication and Stripe Payments**
 
